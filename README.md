@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSUgamer576
 - 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning python and java
+- 📙 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on Hacked clients for 2b2t
 - 📫 you can reach me at discord .exe#3799
 
