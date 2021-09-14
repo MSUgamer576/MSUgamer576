@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MSUgamer576
-- 👀 I’m interested in Minecraft modding
-- 📙 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on Hacked clients for 2b2t
-- 📫 you can reach me at discord .exe#3799
+<h1 align='center'>Hello! I am Rinee.</h1>
+<p align='center'>I am a programmer which mostly focuses on learning java just for fun, and enjoys developing in java.</p>
+<h1 align='center'>Trivia</h1>
+<p align='center'>I'm currently learning Java, and plans on learning some website languages.</p>
+<p align='center'>I collaborate with people.</p>
+<h1 align='center'>Statistics</h1>
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=innardsthegod&&show_icons=true&theme=dark"/>
+  </a>
+</p>
 
-<!---
-MSUgamer576/MSUgamer576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
