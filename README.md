@@ -6,7 +6,7 @@
 <h1 align='center'>Statistics</h1>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=innardsthegod&&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MSUgamer576&&show_icons=true&theme=dark"/>
   </a>
 </p>
 
