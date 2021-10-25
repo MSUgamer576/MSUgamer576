@@ -14,7 +14,7 @@ Im a java developer
 
 [![Stats bby](https://github-readme-stats.vercel.app/api?username=MSUgamer576&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=.MSUgamer576&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=MSUgamer576&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🚀 My Projects
 ### meows my discord music bot
 ### a python calculator
@@ -23,6 +23,8 @@ Im a java developer
 ### linux(kali)
 ### windows(windows 10)
 ### mac os (mac os catalina) does not use it a lot
+
+
 
 <p align="center">
   <img src="https://mocah.org/thumbs/403092-animegirl-wallpaper.png" />
