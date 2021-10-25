@@ -2,8 +2,8 @@
 
 Im a java developer
 
-#### - discord : rockysaltagajn#3247
-#### - ign : PreparedSystem32
+#### - discord : .exe#3417
+#### - ign : Earlybubbles263
 #### - age : 13
 #### - about me : i am a 13 year old python/java developer who wants to learn java and python
 ![Profile Views](https://komarev.com/ghpvc/?username=MSUgamer576)
@@ -27,6 +27,6 @@ Im a java developer
 
 
 <p align="center">
-  <img src="https://mocah.org/thumbs/403092-animegirl-wallpaper.png" />
+  <img src="https://qph.fs.quoracdn.net/main-qimg-792f8802d35c24aab36ebaf50d69933d" />
 </p>
 
