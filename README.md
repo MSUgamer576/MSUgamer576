@@ -4,8 +4,7 @@ Im a java developer
 
 #### - discord : .exe#3417
 #### - ign : Earlybubbles263
-#### - age : 13
-#### - about me : i am a 13 year old python/java developer who wants to learn java and python
+#### - about me : im a boy who is a python/java developer who wants to learn more about java and python
 ![Profile Views](https://komarev.com/ghpvc/?username=MSUgamer576)
 
 #
