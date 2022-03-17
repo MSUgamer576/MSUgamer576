@@ -20,7 +20,7 @@ Im a java developer
 
 #### what os i use
 ### linux(kali)
-### windows(windows 10)
+### windows(windows 11)
 ### mac os (mac os catalina) does not use it a lot
 
 
