@@ -16,7 +16,6 @@ Im a java developer
 [![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=MSUgamer576&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🚀 My Projects
 ### meows my discord music bot
-### a python calculator
 
 #### what os i use
 ### linux(kali)
