@@ -1,6 +1,6 @@
 ## Hello , Im .EXE
 
-Im a java developer
+Im a python developer
 
 #### - discord : .exe#3417
 #### - ign : Earlybubbles263
