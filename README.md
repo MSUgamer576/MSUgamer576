@@ -15,16 +15,16 @@ Im a python developer
 
 [![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=MSUgamer576&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🚀 My Projects
-### meows my discord music bot
+### Overseer my all in one discord bot
+### My Discord rpc editor
 
 #### what os i use
 ### linux(kali)
 ### windows(windows 11)
-### mac os (mac os catalina) does not use it a lot
 
 
 
-<p align="center">
+'''<p align="center">
   <img src="https://qph.fs.quoracdn.net/main-qimg-792f8802d35c24aab36ebaf50d69933d" />
-</p>
+</p>'''
 
