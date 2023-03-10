@@ -23,8 +23,3 @@ Im a python developer
 ### windows(windows 11)
 
 
-
-'''<p align="center">
-  <img src="https://qph.fs.quoracdn.net/main-qimg-792f8802d35c24aab36ebaf50d69933d" />
-</p>'''
-
